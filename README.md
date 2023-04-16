@@ -1,2 +1,2 @@
 # rehash
-A subset of Redis written in Rust
+A Redis clone written in Rust
